@@ -19,6 +19,8 @@ public class Runner {
 		
 		TC3_Get_Request_AllData tc3=new TC3_Get_Request_AllData();
 		tc3.tc3_Get_Request_AllData();
+		
+		System.out.println("successfully run the trigger class");
 	}
 
 }

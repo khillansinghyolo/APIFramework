@@ -34,6 +34,7 @@ public class TC1_Post_Request {
 		System.out.println("Id value :"+idValue);
 		
 		ResponseValidation.statusCodeValidate(201, res);
+		System.out.println("successfully run the TC 1");
 	}
 
 }
